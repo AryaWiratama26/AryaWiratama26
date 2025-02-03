@@ -1,4 +1,4 @@
-<h1>Hi 👋, I'm a student from Pelita Bangsa University.</h1>
+<h1>Hi 👋.</h1>
 <p>Hi Guys! Welcome to my github. I'm passionate about programming and enjoy working with Python and C++ to solve problems. Currently, I serve as a Computer Lab Assistant, where I help students and peers with technical issues and programming guidance.</p>
 <h2>🚀 Languages and Tools I Use</h2>
 <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="42" height="42" /></a>
