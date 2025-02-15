@@ -1,4 +1,4 @@
-<h1>Hi 👋, I'm a student from Pelita Bangsa University.</h1>
+<h1>Hi there 👋, I'm Arya Wiratama.</h1>
 <p>Hi Guys! Welcome to my github. I'm passionate about programming and enjoy working with Python and C++ to solve problems. Currently, I serve as a Computer Lab Assistant, where I help students and peers with technical issues and programming guidance.</p>
 <h2>🚀 Languages and Tools I Use</h2>
 <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="42" height="42" /></a>
@@ -21,11 +21,14 @@
 <h2>⚡️ Where to find me</h2>
 <p><a target="_blank" href="https://www.linkedin.com/in/https://www.linkedin.com/in/arya-wiratama-60a059345/" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a>
 <a target="_blank" href="https://www.instagram.com/https://www.instagram.com/wirarya_" style="display: inline-block;"><img src="https://img.shields.io/badge/instagram-logo?style=for-the-badge&logo=instagram&logoColor=white&color=%23F35369" alt="instagram" /></a></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=AryaWiratama26&show_icons=true&locale=en" alt="AryaWiratama26" /></p>
-<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AryaWiratama26&" alt="AryaWiratama26" /></p> -->
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=AryaWiratama26&show_icons=true&locale=en&layout=compact" alt="AryaWiratama26" /></p>
-<p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=AryaWiratama26" alt="AryaWiratama26" /></a></p>
 
+### 📊 GitHub Stats
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=AryaWiratama26&show_icons=true&theme=radical" alt="AryaWiratama26" /></p>
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AryaWiratama26&layout=compact&theme=radical" alt="AryaWiratama26" /></p>
+<p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=AryaWiratama26&theme=radical" alt="AryaWiratama26" /></a></p>
+
+### ⚡ Recent GitHub Activity
+![GitHub Activity](https://github-readme-activity-graph.vercel.app/graph?username=AryaWiratama26&theme=react-dark)
 
 <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
