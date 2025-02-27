@@ -37,5 +37,5 @@
 </picture>
 
 <div style="text-align: center; justify-content: center; align-items: center; display: block;">
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Thank+you+for+visiting+my+profile." alt="Typing SVG" /></a>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Thank+you+for+visiting+my+profile.;How+vexingly+quick+daft+zebras+jump" alt="Typing SVG" /></a>
 <div>
