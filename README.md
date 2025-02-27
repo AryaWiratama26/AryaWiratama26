@@ -25,6 +25,7 @@
 ### 📊 GitHub Stats
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=AryaWiratama26&show_icons=true&theme=radical" alt="AryaWiratama26" /></p>
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AryaWiratama26&layout=compact&theme=radical" alt="AryaWiratama26" /></p>
+<p><img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=AryaWiratama26&count_private=true&theme=react&border_radius=10" alt="streak stats"/></p>
 <p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=AryaWiratama26&theme=radical" alt="AryaWiratama26" /></a></p>
 
 ### ⚡ Recent GitHub Activity
