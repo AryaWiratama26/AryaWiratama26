@@ -37,6 +37,12 @@
     <img alt="github-snakes" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
 </picture>
 
+<br>
+
+<div align="center">
+    <img src="https://profile-counter.glitch.me/AryaWiratama26/count.svg" alt="AryaWiratama26" />
+</div>
+
 <div align="center">
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Thank+you+for+visiting+my+profile." alt="Typing SVG" /></a>
 <div>
