@@ -1,6 +1,7 @@
-<p align="center">
-  <img src="/img/github_profile_banner_fixed.png" alt="FastDC Banner" width="100%">
-</p>
+<a href="#"><img align="left" alt="React" width="100%" style="padding:10px;" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/others/Welcome.svg" /></a>
+
+
+<p align="center" ><img  src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 100px></p>
 
 <h1 align="center">Hi there, I'm <a href="https://github.com/AryaWiratama26">Arya Wiratama</a> 👋</h1>
 <p align="center">
