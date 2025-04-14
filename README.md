@@ -1,9 +1,13 @@
 <p align="center">
-  <img src="/img/banner-profile.png" alt="FastDC Banner" width="100%">
+  <img src="/img/github_profile_banner_resized.png" alt="FastDC Banner" width="100%">
 </p>
 
-<h1>Hi there, I'm <a href="https://github.com/AryaWiratama26">Arya Wiratama</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
-<p>Hi Guys! Welcome to my github. I'm passionate about programming and enjoy working with Python and C++ to solve problems. Currently, I serve as a Computer Lab Assistant, where I help students and peers with technical issues and programming guidance.</p>
+<h1 align="center">Hi there, I'm <a href="https://github.com/AryaWiratama26">Arya Wiratama</a> 👋</h1>
+<p align="center">
+  Welcome to my GitHub profile! I'm passionate about programming and enjoy solving problems using Python and C++.<br>
+  Currently, I serve as a Computer Lab Assistant, helping students with technical and programming tasks.
+</p>
+
 <h2>🚀 Languages and Tools I Use</h2>
 <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="42" height="42" /></a>
